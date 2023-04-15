@@ -2,4 +2,3 @@ rencana
 -thrifting
  -thrithing di bandung 
   *struktur data dasar
--beli skincare
